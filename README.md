@@ -22,7 +22,7 @@ pip install -r requirements.txt
 | # | 챕터 | 노트 | 상태 |
 |---|------|------|------|
 | 01 | [First Steps](https://fastapi.tiangolo.com/tutorial/first-steps/) | [NOTE](01-first-steps/NOTE.md) | ✅ |
-| 02 | [Path Parameters](https://fastapi.tiangolo.com/tutorial/path-params/) | [NOTE](02-path-params/NOTE.md) | ⬜ |
+| 02 | [Path Parameters](https://fastapi.tiangolo.com/tutorial/path-params/) | [NOTE](02-path-params/NOTE.md) | ✅ |
 | 03 | [Query Parameters](https://fastapi.tiangolo.com/tutorial/query-params/) | [NOTE](03-query-params/NOTE.md) | ⬜ |
 | 04 | [Request Body](https://fastapi.tiangolo.com/tutorial/body/) | [NOTE](04-body/NOTE.md) | ⬜ |
 | 05 | [Query Parameters and String Validations](https://fastapi.tiangolo.com/tutorial/query-params-str-validations/) | [NOTE](05-query-params-str-validations/NOTE.md) | ⬜ |
