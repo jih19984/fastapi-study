@@ -25,7 +25,7 @@ pip install -r requirements.txt
 | 02 | [Path Parameters](https://fastapi.tiangolo.com/tutorial/path-params/) | [NOTE](02-path-params/NOTE.md) | ✅ |
 | 03 | [Query Parameters](https://fastapi.tiangolo.com/tutorial/query-params/) | [NOTE](03-query-params/NOTE.md) | ✅ |
 | 04 | [Request Body](https://fastapi.tiangolo.com/tutorial/body/) | [NOTE](04-body/NOTE.md) | ✅ |
-| 05 | [Query Parameters and String Validations](https://fastapi.tiangolo.com/tutorial/query-params-str-validations/) | [NOTE](05-query-params-str-validations/NOTE.md) | ⬜ |
+| 05 | [Query Parameters and String Validations](https://fastapi.tiangolo.com/tutorial/query-params-str-validations/) | [NOTE](05-query-params-str-validations/NOTE.md) | ✅ |
 | 06 | [Path Parameters and Numeric Validations](https://fastapi.tiangolo.com/tutorial/path-params-numeric-validations/) | [NOTE](06-path-params-numeric-validations/NOTE.md) | ⬜ |
 | 07 | [Query Parameter Models](https://fastapi.tiangolo.com/tutorial/query-param-models/) | [NOTE](07-query-param-models/NOTE.md) | ⬜ |
 | 08 | [Body - Multiple Parameters](https://fastapi.tiangolo.com/tutorial/body-multiple-params/) | [NOTE](08-body-multiple-params/NOTE.md) | ⬜ |
